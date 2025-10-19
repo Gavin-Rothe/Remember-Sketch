@@ -1,1 +1,2 @@
 # Remember-Sketch
+You might not be able to use files from other peoples code because you have no way to define some of the variables like the background size and color, and each points size, color, and representation. Someone might be able to adress some of those problems by defining them in the file or loading them into the sketch with the ability to define variables that would make sense with the points. 
